@@ -4,7 +4,7 @@
 <h2>About Me</h2>
 I am a MERN stack developer with a passion for creating outstanding user experiences through code! I use react, JavaScript, express js, firebase, DaisyUI , Tailwind CSS etc for web application development. I've been weaving interactive and seamless web applications using the latest technology. I specialize in building robust and scalable web applications using React. From single-page applications to complex enterprise solutions, I  am confident to tackle diverse challenges
 <h2>Goals</h2>
-My goal is to build up awesome user experiences through web applications.
+My goal is to make  awesome user experiences through building up awesome web applications.
 <h1></h1>
 
 
