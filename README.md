@@ -1,6 +1,12 @@
 ![Alt text](https://raw.githubusercontent.com/mdsoponhossain/mdsoponhossain/main/Add%20a%20heading.png)
 <h1 align="center">Hi 👋, I'm Md Sopon Hossain</h1>
 <h3 align="center">A passionate react developer from Bangladesh</h3>
+<h2>About Me</h2>
+I am a React Web Developer on a mission to craft exceptional user experiences through code!  My coding journey kicked off when I discovered the magic of React. Since then, I've been weaving interactive and seamless web applications using the latest in React development. I specialize in building robust and scalable web applications using React. From single-page applications to complex enterprise solutions, I  am confident to tackle diverse challenges
+<h2>Goals</h2>
+My goal is to build up awesome user experiences through web applications.
+<h1></h1>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdsoponhossain&label=Profile%20views&color=0e75b6&style=flat" alt="mdsoponhossain" /> </p>
 
