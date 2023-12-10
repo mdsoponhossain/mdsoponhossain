@@ -22,6 +22,7 @@ My goal is to make  awesome user experiences through building up awesome web app
 <h3 align="left">Connect with me:</h3>
 <p align="center" style="border: "2px solid blue" >
 <a href="https://www.linkedin.com/in/md-sopon-hossain-840a26252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-sopon-hossain-840a26252/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/md-sopon-hossain-840a26252/" target="blank"><img style='width: 140px;' align="center" src="https://raw.githubusercontent.com/mdsoponhossain/mdsoponhossain/main/linkedin.png" alt="https://www.linkedin.com/in/md-sopon-hossain-840a26252/" height="30" width="40" /></a>
 </p>
 
 
