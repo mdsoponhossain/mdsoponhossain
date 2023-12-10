@@ -1,6 +1,6 @@
 ![Alt text](https://raw.githubusercontent.com/mdsoponhossain/mdsoponhossain/main/Add%20a%20heading%20(2).png)
 <h1 align="center">Hi 👋, I'm Md Sopon Hossain</h1>
-<h3 align="center">A passionate  MERN stack from Bangladesh</h3>
+<h3 align="center">A passionate  MERN Stack web developer</h3>
 <h2>About Me</h2>
 I am a MERN stack developer with a passion for creating outstanding user experiences through code! I use react, JavaScript, express js, firebase, DaisyUI , Tailwind CSS etc for web application development. I've been weaving interactive and seamless web applications using the latest technology. I specialize in building robust and scalable web applications using React. From single-page applications to complex enterprise solutions, I  am confident to tackle diverse challenges
 <h2>Goals</h2>
